@@ -17,6 +17,5 @@ tableau d'objet
 tableau d'objet
 - Cette liste contiendra l'avatar, le nom et l'age de la personne
 
-
 - Pour réaliser cet exercice, vous utiliserez soit jQuery, soit du javascript natif ( ou les deux à la fois )
 
